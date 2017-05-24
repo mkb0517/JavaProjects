@@ -1,0 +1,68 @@
+Type: GenericNerd
+Name: Bugger McNosePicker
+Nerd Level: 9
+------------------------------
+Type: GenericNerd
+Name: Lame-o Lamerson
+Nerd Level: 1
+------------------------------
+Type: Trekkie
+Name: Phineas Q. Arbuckle
+Nerd Level: 3
+Speaks Klingon? No
+Captain: Kirk
+------------------------------
+Type: GamerGeek
+Name: XBone Commando
+Nerd Level: 1
+Platform: XB1
+------------------------------
+Type: CosplayTrekkie
+Name: Captain
+Nerd Level: 10
+Speaks Klingon? Yes
+Captain: Kirk
+Costume: Federation Officer
+------------------------------
+Type: GamerGeek
+Name: Rambo Wannabe
+Nerd Level: 6
+Platform: XB1
+------------------------------
+Type: CosplayTrekkie
+Name: Booger McStickyfingers
+Nerd Level: 9
+Speaks Klingon? Yes
+Captain: Picard
+Costume: Borg drone
+------------------------------
+Type: Trekkie
+Name: Trekking Trekster
+Nerd Level: 2
+Speaks Klingon? No
+Captain: Picard
+------------------------------
+Type: CosplayTrekkie
+Name: Warf Luver
+Nerd Level: 9
+Speaks Klingon? Yes
+Captain: Kirk
+Costume: Klingon
+------------------------------
+Type: GamerGeek
+Name: Baron Ron von Dorkenstein
+Nerd Level: 7
+Platform: PC
+------------------------------
+Type: CosplayTrekkie
+Name: Donnie Doofus
+Nerd Level: 8
+Speaks Klingon? No
+Captain: Kirk
+Costume: Vulcan
+------------------------------
+Type: GamerGeek
+Name: Stationary Playstationer
+Nerd Level: 10
+Platform: PS4
+------------------------------

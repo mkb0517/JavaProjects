@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Droid>
+	<Astromech>
+		<R_Series>
+			<R2>
+				<ID>R2-D4</ID>
+				<Price Currency='Imperial Credits'>5428.00</Price>
+			</R2>
+			<R2>
+				<ID>R2-A3</ID>
+				<Price Currency='Imperial Credits'>5487.34</Price>
+			</R2>
+			<R3>
+				<ID>R3-N8</ID>
+				<Price Currency='Imperial Credits'>987.26</Price>
+			</R3>
+			<R3>
+				<ID>R3-W1</ID>
+				<Price Currency='Imperial Credits'>5340.00</Price>
+			</R3>
+			<R3>
+				<ID>R3-H2</ID>
+				<Price Currency='Imperial Credits'>5461.00</Price>
+			</R3>
+			<R3>
+				<ID>R3-T7</ID>
+				<Price Currency='Imperial Credits'>6843.21</Price>
+			</R3>
+			<R4>
+				<ID>R4-B7</ID>
+				<Price Currency='Imperial Credits'>3428.98</Price>
+			</R4>
+			<R4>
+				<ID>R4-B2</ID>
+				<Price Currency='Imperial Credits'>4722.00</Price>
+			</R4>
+			<R4>
+				<ID>R4-W3</ID>
+				<Price Currency='Imperial Credits'>4759.00</Price>
+			</R4>
+			<R5>
+				<ID>R5-D9</ID>
+				<Price Currency='Imperial Credits'>543.34</Price>
+			</R5>
+			<R5>
+				<ID>R5-T9</ID>
+				<Price Currency='Imperial Credits'>872.00</Price>
+			</R5>
+			<R5>
+				<ID>R5-U8</ID>
+				<Price Currency='Imperial Credits'>976.00</Price>
+			</R5>
+			<R5>
+				<ID>R5-W3</ID>
+				<Price Currency='Imperial Credits'>4873.00</Price>
+			</R5>
+		</R_Series>
+		<P2_Series>
+			<P2>
+				<ID>P2-A6</ID>
+				<Price Currency='Imperial Credits'>1934.00</Price>
+			</P2>
+			<P2>
+				<ID>P2-Q2</ID>
+				<Price Currency='Imperial Credits'>6873.00</Price>
+			</P2>
+			<P2>
+				<ID>P2-A6</ID>
+				<Price Currency='Imperial Credits'>43867.00</Price>
+			</P2>
+		</P2_Series>
+		<R4_Prototype>
+			<R4_P>
+				<ID>R4-P37</ID>
+				<Price Currency='Imperial Credits'>4726.00</Price>
+			</R4_P>
+			<R4_P>
+				<ID>R4-P56</ID>
+				<Price Currency='Imperial Credits'>6987.56</Price>
+			</R4_P>
+			<R4_P>
+				<ID>R4-P92</ID>
+				<Price Currency='Imperial Credits'>8759.00</Price>
+			</R4_P>
+		</R4_Prototype>
+	</Astromech>
+	<BB_Series>
+		<BB>
+			<ID>BB-2</ID>
+			<Price Currency='Imperial Credits'>3872.91</Price>
+		</BB>
+		<BB>
+			<ID>BB-9A</ID>
+			<Price Currency='Imperial Credits'>6543.00</Price>
+		</BB>
+		<BB>
+			<ID>BB-4T2</ID>
+			<Price Currency='Imperial Credits'>7396.00</Price>
+		</BB>
+		<BB>
+			<ID>BB-7H8</ID>
+			<Price Currency='Imperial Credits'>65713.00</Price>
+		</BB>
+	</BB_Series>
+	<Protocol>
+		<TPO_Series>
+			<TPO>
+				<ID>J8-3PO</ID>
+				<Price Currency='Imperial Credits'>1238.00</Price>
+			</TPO>
+			<TPO>
+				<ID>T5-3PO</ID>
+				<Price Currency='Imperial Credits'>3284.00</Price>
+			</TPO>
+			<TPO>
+				<ID>R7-3PO</ID>
+				<Price Currency='Imperial Credits'>4888.00</Price>
+			</TPO>
+			<TPO>
+				<ID>X-3PO</ID>
+				<Price Currency='Imperial Credits'>7463.00</Price>
+			</TPO>
+			<TPO>
+				<ID>V8-3PO</ID>
+				<Price Currency='Imperial Credits'>8753.00</Price>
+			</TPO>
+		</TPO_Series>
+		<T2_Series>
+			<TC>
+				<ID>TC-77</ID>
+				<Price Currency='Imperial Credits'>2945.00</Price>
+			</TC>
+			<TC>
+				<ID>TC-28</ID>
+				<Price Currency='Imperial Credits'>3429.00</Price>
+			</TC>
+			<TC>
+				<ID>TC-98</ID>
+				<Price Currency='Imperial Credits'>3479.00</Price>
+			</TC>
+			<TC>
+				<ID>TC-45</ID>
+				<Price Currency='Imperial Credits'>3561.00</Price>
+			</TC>
+		</T2_Series>
+	</Protocol>
+	<IG_Assassin>
+		<IG>
+			<ID>IG-34</ID>
+			<Price Currency='Imperial Credits'>7249.00</Price>
+		</IG>
+		<IG>
+			<ID>IG-52</ID>
+			<Price Currency='Imperial Credits'>8729.62</Price>
+		</IG>
+		<IG>
+			<ID>IG-BA</ID>
+			<Price Currency='Imperial Credits'>9728.00</Price>
+		</IG>
+		<IG>
+			<ID>IG-H8</ID>
+			<Price Currency='Imperial Credits'>11856.27</Price>
+		</IG>
+	</IG_Assassin>
+</Droid>
